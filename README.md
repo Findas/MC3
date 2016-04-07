@@ -12,6 +12,9 @@ To Calculate a product you have to specify all items, that the dropdown list "Na
 You choose a product from the dropdownmenu and specify a quantity. After this you hit "Calculate and Save". The Materials will be calculated and put out in the Textbox and saved to "/user/documents/Minecraft Crafting Calculator/<quantity><Itemname>"
 
 
+Knowen Bugs:
+-Calculation algorythem does not work properly
+
 Planed features:
 
 -Mearge Itemfiles funktion
