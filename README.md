@@ -1,5 +1,8 @@
-# MC3
-A lightweight Craftingcalculator for Minecraft or any other Crafting game
+README for Version Beta 0.51
+
+included:
+MC3 - Beta 0.7.exe
+this README
 
 This program is in beta now most features have been added.
 
@@ -11,9 +14,8 @@ To Calculate a product you have to specify all items, that the dropdown list "Na
 
 You choose a product from the dropdownmenu and specify a quantity. After this you hit "Calculate and Save". The Materials will be calculated and put out in the Textbox and saved to "/user/documents/Minecraft Crafting Calculator/<quantity><Itemname>"
 
-
 Knowen Bugs:
--Calculation algorythem does not work properly
+
 
 Planed features:
 
@@ -24,6 +26,9 @@ Planed features:
 
 
 Version History:
+
+Beta 0.51
+-Fixed Bug where the calculation delivered false quantities.
 
 Beta 0.5
 -Fixed Bug where the calculation did not deliver the right results
